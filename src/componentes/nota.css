@@ -1,0 +1,17 @@
+.nota{
+	
+}
+
+.jumbotron{
+	color: black;
+	position: relative;
+	/*display: flex;
+	flex-wrap: wrap;*/
+	text-align: right;
+
+}
+
+button{
+	border-radius: 50%;
+
+}

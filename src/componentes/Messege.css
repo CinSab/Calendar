@@ -1,0 +1,30 @@
+.Mensaje{
+	background-color: none;
+}
+
+.containerT{
+	width: 170px;
+	height: 200px;
+	border: 2px solid azure;
+	display: block;
+	flex-wrap: wrap;
+
+}
+
+.Mensaje .containerT h6{
+	text-align: center;
+	
+}
+
+h6{
+	display: flex;
+	height: 25px;
+	padding: 0 25px 0 25px ;
+	text-align: center;
+	justify-content: center;
+	margin: 0 39px 0 39px;
+}
+hr{
+	height: 1px;
+	width: 100%;
+}
