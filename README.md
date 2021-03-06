@@ -1,2 +1,0 @@
-# Calendar
-An interactive Calendar
