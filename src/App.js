@@ -8,7 +8,7 @@ function App() {
     <div className="App">
         <div className="containerr">
           <div className='header'>
-          <Estadoo valor='15' />
+      
             <h1> Calendario </h1>
             <h3>{Date().toLocaleString()}</h3>
 
